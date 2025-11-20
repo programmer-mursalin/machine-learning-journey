@@ -1,1 +1,1 @@
-print("heloo\nhello")
+print("hello\ncome on")
